@@ -14,7 +14,7 @@
 [Sergey Tulyakov](http://www.stulyakov.com/)
 </br>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2501.00000-b31b1b.svg)](https://arxiv.org/abs/2501.00000)
+[![arXiv](https://img.shields.io/badge/arXiv-2501.06187-b31b1b.svg)](https://arxiv.org/abs/2501.06187)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://snap-research.github.io/open-set-video-personalization/)
 
 In this paper, we introduce *MSRVTT-Personalization*, a new benchmark for the task of personalization. It aims at accurate subject fidelity assessment and supports various conditioning modes, including conditioning on face crops, single or multiple arbitrary subjects, and the combination of foreground objects and background.
@@ -112,10 +112,10 @@ If you find this project useful for your research, please cite our paper. :blush
 @inproceedings{chen2025videoalchemist,
   title   = {Multi-subject Open-set Personalization in Video Generation},
   author  = {Chen, Tsai-Shien and Siarohin, Aliaksandr and Menapace, Willi and Fang, Yuwei and Lee, Kwot Sin and Skorokhodov, Ivan and Aberman, Kfir and Zhu, Jun-Yan and Yang, Ming-Hsuan and Tulyakov, Sergey},
-  journal = {arXiv preprint arXiv:2501.00000},
+  journal = {arXiv preprint arXiv:2501.06187},
   year    = {2025}
 }
 ```
 
 ## Contact Information
-**Tsai-Shien Chen**: [tsaishienchen@gmail.com](mailto:tsaishienchen@gmail.com) 
+Tsai-Shien Chen: [tsaishienchen@gmail.com](mailto:tsaishienchen@gmail.com) 
