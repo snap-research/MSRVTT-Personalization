@@ -1,0 +1,7 @@
+evaluator:
+  target: !module evaluation.evaluators.composite_evaluator.CompositeEvaluator
+  evaluators:
+    - target: !module evaluation.evaluators.text_clip_similarity_video_evaluator.TextClipSimilarityVideoEvaluator
+    - target: !module evaluation.evaluators.video_clip_similarity_video_evaluator.VideoClipSimilarityVideoEvaluator
+    - target: !module evaluation.evaluators.subject_dino_similarity_video_evaluator.SubjectDinoSimilarityVideoEvaluator
+    - target: !module evaluation.evaluators.dynamic_degree_video_evaluator.DynamicDegreeVideoEvaluator
