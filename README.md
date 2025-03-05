@@ -1,4 +1,4 @@
-# MSRVTT-Personalization
+# *MSRVTT-Personalization*
 
 **[Multi-subject Open-set Personalization in Video Generation](https://snap-research.github.io/open-set-video-personalization/)**
 </br>
@@ -13,11 +13,13 @@
 [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/),
 [Sergey Tulyakov](http://www.stulyakov.com/)
 </br>
+*Computer Vision and Pattern Recognition (CVPR) 2025*
 
 [![arXiv](https://img.shields.io/badge/arXiv-2501.06187-b31b1b.svg)](https://arxiv.org/abs/2501.06187)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://snap-research.github.io/open-set-video-personalization)
 
-In the paper, we introduce *MSRVTT-Personalization*, a new benchmark for the task of personalization. It aims at accurate subject fidelity assessment and supports various conditioning modes, including conditioning on face crops, single or multiple arbitrary subjects, and conditioning on foreground objects and background.
+# Introduction
+We present *MSRVTT-Personalization*, a new benchmark for the task of personalization. It aims at accurate subject fidelity assessment and supports various conditioning modes, including conditioning on face crops, single or multiple arbitrary subjects, and conditioning on foreground objects and background.
 
 We include the testing dataset and evaluation protocol in this repository. We show a test sample of *MSRVTT-Personalization* below:
 <table class="center">
@@ -257,7 +259,7 @@ If you find this project useful for your research, please cite our paper. :blush
 @inproceedings{chen2025videoalchemist,
   title   = {Multi-subject Open-set Personalization in Video Generation},
   author  = {Chen, Tsai-Shien and Siarohin, Aliaksandr and Menapace, Willi and Fang, Yuwei and Lee, Kwot Sin and Skorokhodov, Ivan and Aberman, Kfir and Zhu, Jun-Yan and Yang, Ming-Hsuan and Tulyakov, Sergey},
-  journal = {arXiv preprint arXiv:2501.06187},
+  journal = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year    = {2025}
 }
 ```
