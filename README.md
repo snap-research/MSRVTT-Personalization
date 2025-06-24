@@ -136,8 +136,8 @@ rm -r MSRVTT MSRVTT.zip
 cd ../models/arcface
 mkdir weight; cd weight
 # Manually download
-# https://1drv.ms/u/c/4A83B6B633B029CC/AcwpsDO2toMggEpCFgAAAAA?e=aNn50a
-# and put it under the `models/arcface/weight` folder
+# https://drive.google.com/file/d/1vN9yn_KN0DXZpKy7Kg0luM-0tNVFGm95
+# and put `backbone.pth` under the `models/arcface/weight` folder
 ```
 - Download [YOLOv9 face detection](https://github.com/spacewalk01/yolov9-face-detection) checkpoint
 ```
@@ -145,7 +145,7 @@ cd ../../YOLOv9
 mkdir weight; cd weight
 # Manually download
 # https://drive.google.com/file/d/15K4e08lcZiiQrXmdsnm2BhcoNS3MOMmx
-# and put it under the `models/YOLOv9/weight` folder
+# and put `best.pt` under the `models/YOLOv9/weight` folder
 ```
 - Download [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything) checkpoints
 ```
