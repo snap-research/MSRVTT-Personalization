@@ -144,7 +144,7 @@ mkdir weight; cd weight
 cd ../../YOLOv9
 mkdir weight; cd weight
 # Manually download
-# https://drive.google.com/file/d/15K4e08lcZiiQrXmdsnm2BhcoNS3MOMmx
+# https://drive.google.com/file/d/1wgT-iCcCTpetH_nDSkh_RAaYTr74qvkg
 # and put `best.pt` under the `models/YOLOv9/weight` folder
 ```
 - Download [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything) checkpoints
